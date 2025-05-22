@@ -1,0 +1,8 @@
+li a{
+    color: green;
+}
+body {
+    background: white url("images/pobierz.png") no-repeat;
+    display: flex;
+    align-items: center;
+}
